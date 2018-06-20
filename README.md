@@ -1,6 +1,9 @@
 SVO
 ===
 
+This branch contains a set of modifications made in preparation for a SLAM benchmark on Ubuntu 16.04 with ROS kinetic.
+
+
 This code implements a semi-direct monocular visual odometry pipeline.
 
 Video: http://youtu.be/2YnIMfw6bJY
